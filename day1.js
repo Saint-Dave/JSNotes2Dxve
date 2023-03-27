@@ -1,3 +1,5 @@
+// RANDOM PASSWORD GENERATOR CODE
+
 function generatePassword(length) {
   const charset = "aeiouPQRST13579&*[)$";
   let password = "";
