@@ -15,7 +15,7 @@ function convertCurrency(amount, fromCurrency, toCurrency) {
   
   // Example usage:
   const convertedAmount = convertCurrency(46150, 'NGN', 'EUR');
-  console.log(convertedAmount); // 93
+  console.log(convertedAmount);
   
 //   // Example usage
    const amount = 100;
